@@ -1,1 +1,9 @@
 Sample file
+Yep, it’s celebration time. Salesforce — for the 17th consecutive year — 
+has been named a Leader in the 2023 Gartner® Magic Quadrant™ for Sales Force Automation Platforms. 
+This achievement shines a light on Sales Cloud and its ability to deliver millions of AI-powered sales recommendations for businesses, everywhere. 
+In fact, Sales Cloud is having quite a moment in the sun, having just moved to the #1 spot across 33 grids in the 
+G2 Fall Grid Report — including the CRM for SMBs and Conversational Intelligence categories, to name a few.
+It’s all a win for how we empower our customers with the latest innovations — and a testament to all of your hard work. 
+Bust out the balloons and celebrate across social — plus see what’s next for our tech in the Dreamforce Sales Keynote on Salesforce+.
+Astro with "17" balloons, honored to be named a Leader for SFA by Gartner for a 17th year.
